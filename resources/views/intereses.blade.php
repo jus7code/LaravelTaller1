@@ -11,7 +11,7 @@
 <body>
   <main class="container">
 
-    <section class="content-card">
+        <section class="content-card">
 
       <h1 class="title">Intereses</h1>
       <p class="subtitle">Ámbitos que despiertan curiosidad, motivación y desarrollo</p>
@@ -19,34 +19,31 @@
       <div style="margin-top: 28px;">
         <h2 class="section-title">Áreas profesionales de interés</h2>
         <ul class="clean-list">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
+          <li>Inteligencia artificial</li>
+          <li>Desarrollo de videojuegos</li>
         </ul>
       </div>
 
       <div style="margin-top: 28px;">
         <h2 class="section-title">Intereses personales</h2>
         <ul class="clean-list">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
+          <li>Desarrollo web</li>
+          <li>Marketing digital</li>
         </ul>
       </div>
 
       <div style="margin-top: 28px;">
         <h2 class="section-title">Temas que me gustaría profundizar</h2>
         <ul class="clean-list">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
+          <li>Desarrollo avanzado de juegos usando IA</li>
         </ul>
       </div>
 
       <div style="margin-top: 28px;">
         <h2 class="section-title">Notas o reflexiones</h2>
-        <div class="placeholder-box"></div>
+        <div class="placeholder-box" style="display:flex; align-items:center; justify-content:center; font-weight:600; color:var(--muted);">
+          Si lo puedes imaginar lo puedes programar
+        </div>
       </div>
 
     </section>

@@ -14,59 +14,34 @@
     <section class="content-card">
 
       <h1 class="title">Metas Profesionales</h1>
-      <p class="subtitle">Objetivos de crecimiento y dirección de carrera</p>
+      <p class="subtitle">Dirección estratégica de crecimiento y propósito profesional</p>
 
       <div style="margin-top: 28px;">
         <h2 class="section-title">Meta principal</h2>
-        <p class="subtitle" style="margin-top:-6px;">Describe en una frase el objetivo más importante.</p>
-        <div class="placeholder-box" style="min-height: 90px;"></div>
+        <div class="placeholder-box" style="display:flex; align-items:center; justify-content:center; font-weight:600; color:var(--muted);">
+          Construir soluciones tecnológicas de alto impacto basadas en inteligencia artificial
+        </div>
       </div>
 
       <div style="margin-top: 28px;">
-        <h2 class="section-title">Metas a corto plazo (0–6 meses)</h2>
+        <h2 class="section-title">Metas a corto plazo</h2>
         <ul class="clean-list">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
+          <li>Desarrollar software integrado con inteligencia artificial de alto valor</li>
         </ul>
       </div>
 
       <div style="margin-top: 28px;">
-        <h2 class="section-title">Metas a mediano plazo (6–18 meses)</h2>
+        <h2 class="section-title">Metas a mediano plazo</h2>
         <ul class="clean-list">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
+          <li>Administrar sistemas con inteligencia artificial</li>
+          <li>Contar con una empresa dedicada a soluciones de software utilizando inteligencia artificial</li>
         </ul>
       </div>
 
       <div style="margin-top: 28px;">
-        <h2 class="section-title">Metas a largo plazo (18+ meses)</h2>
+        <h2 class="section-title">Metas a largo plazo</h2>
         <ul class="clean-list">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
-        </ul>
-      </div>
-
-      <div style="margin-top: 28px;">
-        <h2 class="section-title">Plan de acción</h2>
-        <p class="subtitle" style="margin-top:-6px;">Pasos concretos para avanzar (acciones, hábitos, proyectos).</p>
-        <ul class="clean-list" style="margin-top: 10px;">
-          <li><strong>Acción 1:</strong> __________________________</li>
-          <li><strong>Acción 2:</strong> __________________________</li>
-          <li><strong>Acción 3:</strong> __________________________</li>
-          <li><strong>Acción 4:</strong> __________________________</li>
-        </ul>
-      </div>
-
-      <div style="margin-top: 28px;">
-        <h2 class="section-title">Indicadores de avance</h2>
-        <p class="subtitle" style="margin-top:-6px;">Cómo sabrás que vas bien (métricas, hitos, evidencia).</p>
-        <ul class="clean-list" style="margin-top: 10px;">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
+          <li>Ser proveedor de software con altos estándares de calidad, dedicado al desarrollo implementando técnicas de inteligencia artificial de alto impacto</li>
         </ul>
       </div>
 

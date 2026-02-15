@@ -14,44 +14,44 @@
     <section class="content-card">
 
       <h1 class="title">Habilidades</h1>
-      <p class="subtitle">Competencias técnicas y blandas que puedo aportar</p>
+      <p class="subtitle">Competencias que respaldan mi desarrollo técnico y profesional</p>
 
       <div style="margin-top: 28px;">
         <h2 class="section-title">Habilidades técnicas</h2>
         <ul class="clean-list">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
+          <li>Desarrollo de soluciones con inteligencia artificial</li>
+          <li>Programación orientada al desarrollo de videojuegos</li>
+          <li>Desarrollo web moderno</li>
+          <li>Aplicación de IA en productos digitales</li>
         </ul>
       </div>
 
       <div style="margin-top: 28px;">
         <h2 class="section-title">Habilidades blandas</h2>
         <ul class="clean-list">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
+          <li>Trabajo en equipo</li>
+          <li>Adaptación al cambio</li>
+          <li>Liderazgo</li>
         </ul>
       </div>
 
       <div style="margin-top: 28px;">
         <h2 class="section-title">Herramientas / Tecnologías</h2>
         <ul class="clean-list">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
+          <li>Frameworks y librerías de inteligencia artificial</li>
+          <li>Motores de desarrollo de videojuegos</li>
+          <li>Lenguajes y herramientas de desarrollo web</li>
+          <li>Plataformas de automatización y análisis de datos</li>
         </ul>
       </div>
 
       <div style="margin-top: 28px;">
         <h2 class="section-title">Evidencias / Logros</h2>
-        <p class="subtitle" style="margin-top: -6px;">Escribe resultados concretos (proyectos, hitos, métricas).</p>
-        <ul class="clean-list" style="margin-top: 10px;">
-          <li>__________________________</li>
-          <li>__________________________</li>
-          <li>__________________________</li>
+        <ul class="clean-list">
+          <li>Creación de una IA de reconocimiento de imágenes</li>
+          <li>Desarrollo de asistentes inteligentes con IA</li>
+          <li>Creación de influencers digitales utilizando IA</li>
+          <li>Desarrollo de videojuegos implementando inteligencia artificial</li>
         </ul>
       </div>
 

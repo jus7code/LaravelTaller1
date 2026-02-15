@@ -15,28 +15,31 @@
     {{-- Header / Información general (siempre visible) --}}
     <header class="profile-card">
       <div class="profile-top">
-        <div class="avatar" aria-hidden="true">FP</div>
+        <div class="avatar avatar-photo">
+        <img src="/images/profile.png" alt="Foto de perfil">
+    </div>
+
 
         <div class="profile-info">
           <h1 class="title">Perfil Profesional</h1>
-          <p class="subtitle">Rol / Cargo: __________________________</p>
+          <p class="subtitle">Rol / Cargo: Estudiante UNAB</p>
 
           <div class="meta">
             <div class="meta-item">
               <span class="meta-label">Nombre</span>
-              <span class="meta-value">__________________________</span>
+              <span class="meta-value">Rodrigo Andres Meza Florez</span>
             </div>
             <div class="meta-item">
               <span class="meta-label">Ubicación</span>
-              <span class="meta-value">__________________________</span>
+              <span class="meta-value">Bucaramanga</span>
             </div>
             <div class="meta-item">
               <span class="meta-label">Email</span>
-              <span class="meta-value">__________________________</span>
+              <span class="meta-value">rodrigo@gmail.com</span>
             </div>
             <div class="meta-item">
               <span class="meta-label">Teléfono</span>
-              <span class="meta-value">__________________________</span>
+              <span class="meta-value">+573000000</span>
             </div>
           </div>
         </div>
@@ -44,7 +47,7 @@
 
       <div class="about">
         <h2 class="section-title">Descripción breve</h2>
-        <div class="placeholder-box" aria-label="Descripción breve"></div>
+        <div class="placeholder-box" aria-label="Descripción breve"> --> Esta es una corta descripcion de mi persona</div>
       </div>
     </header>
 
@@ -80,9 +83,9 @@
     <section class="content-card">
       <h2 class="section-title">Resumen</h2>
       <ul class="clean-list">
-        <li><strong>Experiencia:</strong> __________________________</li>
-        <li><strong>Áreas de interés:</strong> __________________________</li>
-        <li><strong>Fortalezas:</strong> __________________________</li>
+        <li><strong>Experiencia:</strong> 6 meses como auxiliar en sistemas </li>
+        <li><strong>Áreas de interés:</strong> Desarrollo web, Inteligencia artificial </li>
+        <li><strong>Fortalezas:</strong> aprendizaje autonomo, trabajo en equipo </li>
       </ul>
     </section>
 

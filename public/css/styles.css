@@ -265,3 +265,40 @@ h1,h2,p,ul,li{ margin: 0; padding: 0; }
   .meta{ grid-template-columns: 1fr; }
   .nav-grid{ grid-template-columns: 1fr; }
 }
+
+/* ===== Avatar con foto ===== */
+
+.avatar-photo {
+  overflow: hidden;
+  position: relative;
+  border-radius: 50%;
+  width: 110px;
+  height: 110px;
+  flex-shrink: 0;
+
+  border: 3px solid rgba(255,255,255,0.18);
+  box-shadow:
+    0 10px 25px rgba(0,0,0,0.45),
+    0 0 0 4px rgba(99,102,241,0.15);
+}
+
+.avatar-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* efecto sutil hover */
+.avatar-photo:hover {
+  transform: translateY(-2px);
+  transition: 0.2s ease;
+}
+
+/* móvil */
+@media (max-width: 520px) {
+  .avatar-photo {
+    width: 90px;
+    height: 90px;
+  }
+}
