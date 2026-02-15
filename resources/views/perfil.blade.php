@@ -51,27 +51,27 @@
     {{-- Navegación a vistas diferentes --}}
     <nav class="nav-grid" aria-label="Navegación del perfil">
       {{-- Cambia los href por tus routes() o urls --}}
-      <a class="nav-btn" href="/perfil/intereses">
+      <a class="nav-btn" href="/perfil">
         <span class="nav-icon">★</span>
-        <span class="nav-text">Pasatiempos</span>
+        <span class="nav-text">perfil</span>
         <span class="nav-sub">Lo que disfruto</span>
       </a>
 
-      <a class="nav-btn" href="/perfil/metas">
+      <a class="nav-btn" href="/perfil/intereses">
         <span class="nav-icon">⟡</span>
-        <span class="nav-text">Metas</span>
+        <span class="nav-text">intereses</span>
         <span class="nav-sub">Lo que busco lograr</span>
       </a>
 
-      <a class="nav-btn" href="/perfil/skills">
+      <a class="nav-btn" href="/perfil/habilidades">
         <span class="nav-icon">⚑</span>
-        <span class="nav-text">Skills</span>
+        <span class="nav-text">Habilidades</span>
         <span class="nav-sub">Habilidades clave</span>
       </a>
 
-      <a class="nav-btn" href="/perfil/objetivos">
+      <a class="nav-btn" href="/perfil/metas">
         <span class="nav-icon">◎</span>
-        <span class="nav-text">Objetivos Profesionales</span>
+        <span class="nav-text">Metas Profesionales</span>
         <span class="nav-sub">Dirección de carrera</span>
       </a>
     </nav>
